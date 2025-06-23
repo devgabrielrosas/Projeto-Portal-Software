@@ -7,3 +7,4 @@ Este projeto tem como objetivo desenvolver uma aplicação web para reunir infor
 ## Integrantes do Grupo
 
 * Gabriel Rosas de Oliveira
+* Jairo Costa da Cunha Júnior
