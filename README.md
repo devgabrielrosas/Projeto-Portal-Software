@@ -9,3 +9,4 @@ Este projeto tem como objetivo desenvolver uma aplicação web para reunir infor
 * Gabriel Rosas de Oliveira
 * Jairo Costa da Cunha Júnior
 * Alan Clemente Vieira Borba de Paiva Figueiredo Santos
+* Thalyson Felicio de Moura
